@@ -1,3 +1,2 @@
-num=12
-for i in num:
-    print(num*i)
+a,b= 2,3
+print(a+b)
